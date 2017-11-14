@@ -1,0 +1,10 @@
+{
+  "buildFiles": [
+    "G:\\Downloads\\opencv-3.3.0-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\OpenCV.mk"
+  ],
+  "cleanCommands": [],
+  "libraries": {},
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}

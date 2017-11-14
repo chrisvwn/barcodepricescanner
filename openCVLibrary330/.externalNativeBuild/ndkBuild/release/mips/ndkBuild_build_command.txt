@@ -1,0 +1,16 @@
+Executable : G:\Android\SdkWin\ndk-bundle\ndk-build.cmd
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=G:\Downloads\opencv-3.3.0-android-sdk\OpenCV-android-sdk\sdk\native\jni\OpenCV.mk
+APP_ABI=mips
+NDK_ALL_ABIS=mips
+NDK_DEBUG=0
+APP_PLATFORM=android-9
+NDK_OUT=G:/AndroidStudioProjects/barcodescanner-master_old/barcodescanner-master/openCVLibrary330/build/intermediates/ndkBuild/release/obj
+NDK_LIBS_OUT=G:\AndroidStudioProjects\barcodescanner-master_old\barcodescanner-master\openCVLibrary330\build\intermediates\ndkBuild\release\lib
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-B
+-n
+jvmArgs : 
+
